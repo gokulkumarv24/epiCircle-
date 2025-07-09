@@ -103,11 +103,11 @@ Customer App	Partner App
 
 👨‍💻 Developer
 Gokul Kumar V
-📧 gokuldeveloper07@gmail.com
-🔗 Portfolio 1
-🔗 Portfolio 2
-🐱 GitHub
-💼 LinkedIn
+📧 gokulkumarv2024@gmail.com
+🔗 Portfolio 1:https://jazzy-muffin-89a87d.netlify.app/
+🔗 Portfolio 2:https://gk-portfolio-5q3f.vercel.app/
+🐱 GitHub:https://github.com/gokulkumarv24
+💼 LinkedIn:https://www.linkedin.com/in/gokul-kumar-v-236a24217
 
 📌 Future Improvements
 ✅ Firebase OTP Authentication

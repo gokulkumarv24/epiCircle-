@@ -1,0 +1,36 @@
+{
+  "pickups": [
+    {
+      "id": "1",
+      "pickupDate": "Wed Jul 10 2025",
+      "timeSlot": "10:00 AM - 11:00 AM",
+      "address": "Chennai, TN",
+      "mapLink": "https://maps.google.com/?q=13.0827,80.2707",
+      "status": "Completed",
+      "pickupCode": "874563",
+      "items": [
+        {
+          "name": "Newspaper",
+          "qty": 2,
+          "price": 50
+        },
+        {
+          "name": "Plastic",
+          "qty": 5,
+          "price": 100
+        }
+      ],
+      "totalAmount": 150,
+      "feedback": ""
+    },
+   
+    {
+      "id": 1752082183234,
+      "pickupDate": "Wed Jul 09 2025",
+      "timeSlot": "12:00 PM - 01:00 PM",
+      "address": "oijsjqhjsjs",
+      "mapLink": "https://www.google.com/maps?q=13.0273429,80.1759556",
+      "status": "Pending"
+    }
+  ]
+}
